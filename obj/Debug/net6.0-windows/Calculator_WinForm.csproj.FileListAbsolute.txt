@@ -1,0 +1,17 @@
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\bin\Debug\net6.0-windows\Calculator_WinForm.exe
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\bin\Debug\net6.0-windows\Calculator_WinForm.deps.json
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\bin\Debug\net6.0-windows\Calculator_WinForm.runtimeconfig.json
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\bin\Debug\net6.0-windows\Calculator_WinForm.dll
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\bin\Debug\net6.0-windows\Calculator_WinForm.pdb
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.Form1.resources
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.csproj.GenerateResource.cache
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.AssemblyInfoInputs.cache
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.AssemblyInfo.cs
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.dll
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\refint\Calculator_WinForm.dll
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.pdb
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.genruntimeconfig.cache
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\ref\Calculator_WinForm.dll
+C:\Users\GOLDEN\source\repos\Calculator_WinForm\obj\Debug\net6.0-windows\Calculator_WinForm.Properties.Resources.resources
